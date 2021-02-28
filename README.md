@@ -1,7 +1,7 @@
 # Getting and Cleaning Data - Course Project
 
 The Getting and Cleaning Data Coursera course project goes as follows.
-The R script, `run-analysis.R`, does the following:
+The R script, `run_analysis.R`, does the following:
 
 1. Download the dataset if it does not already exist in the working directory
 2. Load the activity and feature info
